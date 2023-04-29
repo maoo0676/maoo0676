@@ -6,7 +6,11 @@
 </p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
-       <img alt="GitHub" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
+       <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
+    </a>
+ 
+    <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
+       <img alt="Naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
     </a>
   
     <a href = "https://github.com/Hun-Se">
