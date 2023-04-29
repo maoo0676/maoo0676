@@ -60,7 +60,7 @@ Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ### Demo
 
-[![Readme Card](https://Mafia-Hills.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills)](https://github.com/maoo0676/Mafia-Hills)
+[![Readme Card](https://github-readme-stats..vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills)](https://github.com/maoo0676/Mafia-Hills)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
