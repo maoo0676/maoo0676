@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=maoo0676&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20To%20My%20GitHub!&descAlignY=51&descAlign=62)
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="maoo0676" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Welcome to my GitHub!</p>
-</p>
-
 # My Stacks
 
 <img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/> <img alt="C#" src ="https://img.shields.io/badge/C Sharp-239120.svg?&style=for-the-badge&logo=CSharp&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
