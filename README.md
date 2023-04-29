@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
    <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
 </a>
- 
+\n
 <a href="https://blog.naver.com/ryan001159">
    <img alt="Naver" src ="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
 </a>
@@ -19,8 +19,6 @@
 # Mafia Hills
 
 <p align="center">
-   <a href="#demo">View Demo</a>
-   ·
    <a href="https://github.com/maoo0676/Mafia-Hills/issues/new/choose">Report Bug</a>
    ·
    <a href="https://github.com/maoo0676/Mafia-Hills/issues/new/choose">Request Feature</a>
