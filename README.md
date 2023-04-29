@@ -5,11 +5,14 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ">
-      <img alt="Youtube" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
+       <img src="https://img.shields.io/badge/YouTube-#FF0000?style=flat-square&logo=YouTube&logoColor=white"/>
+    </a>
+    <a href="클릭시 이동할 링크" target="_blank">
+       <img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
     </a>
     <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
