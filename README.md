@@ -25,10 +25,6 @@
 
 # Mafia Hills
 
-<p align="center">
-   <a href="https://github.com/maoo0676/Mafia-Hills/issues/new/choose">Report Bug</a>
-</p>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoo0676&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
