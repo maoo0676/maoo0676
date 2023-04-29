@@ -42,19 +42,13 @@
   </p>
 </p>
 
-# GitHub Extra Pins
+![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+# Mafia Hills
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
 
-# Top Languages Card
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoo0676&layout=compact)](https://github.com/maoo0676/Mafia-Hills)
-
-# Wakatime Week Stats
-
-![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=maoo0676&repo=Mafia-Hills&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoo0676&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
 
 * * *
 
