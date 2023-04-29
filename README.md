@@ -7,7 +7,10 @@
 
 # My Stacks
 
-<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFE.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img alt="C-Sharp" src ="https://img.shields.io/badge/C#-239120.svg?&style=for-the-badge&logo=csharp&logoColor=black"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
 
 # Me
 
