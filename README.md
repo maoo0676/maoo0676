@@ -44,22 +44,6 @@
 
 # GitHub Extra Pins
 
-GitHub extra pins allow you to pin more than six repositories in your profile using a GitHub readme profile.
-
-Yay! You are no longer limited to 6 pinned repositories.
-
-### Usage
-
-Copy-paste this code into your readme and change the links.
-
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
-
-```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-### Demo
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills)](https://github.com/maoo0676/Mafia-Hills)
 
 # Top Languages Card
@@ -143,7 +127,7 @@ You can use the `&hide_progress=true` option to hide the percentages and the pro
 
 -   Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoo0676&layout=compact)](https://github.com/maoo0676/Mafia-Hills)
 
 -   Hidden progress bars
 
