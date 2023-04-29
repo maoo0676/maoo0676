@@ -111,7 +111,7 @@ Choose from any of the [default themes](#themes)
 
 -   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -   Setting card locale
 
