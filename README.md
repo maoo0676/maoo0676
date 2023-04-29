@@ -7,7 +7,7 @@
    
 </p>
   <p align="center">
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCbEUzDJuKgC- SpWOU1cnigQ&count_bg=%23FF0000&title_bg=%23FFFFFF&icon=youtube.svg&icon_color=%23FF0000&title=youtube&edge_flat=false)](https://www.youtube.com/channel/UCbEUzDJuKgC-   SpWOU1cnigQ)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCbEUzDJuKgC- SpWOU1cnigQ&count_bg=%23FF0000&title_bg=%23FFFFFF&icon=youtube.svg&icon_color=%23FF0000&title=youtube&edge_flat=false)](https://www.youtube.com/channel/UCbEUzDJuKgC-   SpWOU1cnigQ)
 
     [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
