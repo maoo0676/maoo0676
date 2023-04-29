@@ -6,7 +6,7 @@
 </p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
-       <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
+       <img alt="GitHub" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
     </a>
   
     <a href = "https://github.com/Hun-Se">
