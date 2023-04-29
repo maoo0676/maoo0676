@@ -13,20 +13,15 @@
 <a href="https://blog.naver.com/ryan001159">
    <img alt="Naver" src ="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
 </a>
-  
-    <a href = "https://github.com/Hun-Se">
-       <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
-    </a>
 
-  <p align="center">
-    <a href="#demo">View Demo</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
-    ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
-  </p>
+<p align="center">
+   <a href="#demo">View Demo</a>
+   ·
+   <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+   ·
+   <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+   ·
+   <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
 </p>
 
 ![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
