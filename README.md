@@ -4,27 +4,19 @@
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
-  <p align="center">
-    <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
-       <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
-    </a>
+
+#Links
+<a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
+   <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
+</a>
  
-    <a href="https://blog.naver.com/ryan001159">
-       <img alt="Naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
-    </a>
+<a href="https://blog.naver.com/ryan001159">
+   <img alt="Naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
+</a>
   
     <a href = "https://github.com/Hun-Se">
        <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
     </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
 
   <p align="center">
     <a href="#demo">View Demo</a>
