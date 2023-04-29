@@ -21,6 +21,10 @@
 <a href="https://blog.naver.com/ryan001159">
    <img alt="Naver" src ="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
 </a>
+<br/>
+<a href="https://github.com/maoo0676">
+   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+</a>
 
 ![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
