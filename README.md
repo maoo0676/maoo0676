@@ -21,11 +21,11 @@
 <p align="center">
    <a href="#demo">View Demo</a>
    ·
-   <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+   <a href="https://github.com/maoo0676/Mafia-Hills/issues/new/choose">Report Bug</a>
    ·
-   <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+   <a href="https://github.com/maoo0676/Mafia-Hills/issues/new/choose">Request Feature</a>
    ·
-   <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
+   <a href="https://github.com/maoo0676/Mafia-Hills/discussions">Ask Question</a>
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
