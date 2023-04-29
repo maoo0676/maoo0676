@@ -5,7 +5,7 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
 
-# Links
+# Me
 <a href="https://www.youtube.com/channel/UCbEUzDJuKgC-SpWOU1cnigQ" target="_blank">
    <img alt="Youtube" src ="https://img.shields.io/badge/Youtube-FF0000.svg?&style=for-the-badge&logo=Youtube&logoColor=white"/>
 </a>
@@ -13,6 +13,10 @@
 <a href="https://blog.naver.com/ryan001159">
    <img alt="Naver" src ="https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white"/>
 </a>
+
+![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+# Mafia Hills
 
 <p align="center">
    <a href="#demo">View Demo</a>
@@ -23,10 +27,6 @@
    ·
    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
 </p>
-
-![maoo0676's GitHub stats](https://github-readme-stats.vercel.app/api/?username=maoo0676&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-# Mafia Hills
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
 
