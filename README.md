@@ -44,7 +44,7 @@
 
 # GitHub Extra Pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills)](https://github.com/maoo0676/Mafia-Hills)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maoo0676&repo=Mafia-Hills&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/maoo0676/Mafia-Hills)
 
 # Top Languages Card
 
